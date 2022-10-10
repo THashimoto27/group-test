@@ -38,7 +38,7 @@
 
 
 --------------------------------------------------------------------------------------------
-
+# Checklist for presentation and readme report. (will be deleted later)
 
 * Prensentation: goal, methodology, findings, limitations and potential extensions
 
