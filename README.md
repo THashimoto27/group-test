@@ -52,7 +52,9 @@ The main goal of our analysis is three-folds. One is to scrape data of the top 3
 
 
 --------------------------------------------------------------------------------------------
-# Checklist for presentation and readme report. (will be deleted later)
+
+# (TO BE DELETED LATER)
+# Checklist for presentation and readme report
 
 * Prensentation: goal, methodology, findings, limitations and potential extensions
 
