@@ -2,6 +2,14 @@
 
 ## GOAL
 
+3 goals
+1. scrape player data
+2. use data extraced to find any interesting findgs/trends
+3. regression anlaysis to see correlation between variable x and y.
+
+The main goal of our analysis is three-folds. One is to scrape data of the top 30 earners in the NBA during the 2021-2022 season from ESPN website. Second, we use the data we extracted to see if there are any interesting findings/trends between the different variables. Lastly, we run a basic regression to see if there are any correlation between variables x and y, which feeds into potential extensions of our analysis or further areas for more research.
+
+
 ## DATA
 
 ### Sources
@@ -30,7 +38,13 @@
 
 
 ### Limitations of analysis
+
 ### Extension of our analysis
+1. extend number of players 30 -> 100 or possibly more
+2. extend to multiple seasons instead of one.
+3. add more variables: team, weight, rebounds, experience (# of seasons), draft info, etc
+3. run various regression analyses and possibly use STATA or R, or even python package if there is one (instead of excel)
+
 
 ## REPRODUCIBILITY
 - Instructions to rerun that analysis in the README.md (from takehiro)
@@ -50,7 +64,7 @@ Reporting about DATA
 * A discussion of extensions of data that would be required to improve the analysis
 
 Reporting your ANALAYSIS
-* goal of the analysis
+* goal of the analysis -check-
 * include methodology
 * description of your project and its findings (or lack of findings)
 * Your findings (or non-findings)
